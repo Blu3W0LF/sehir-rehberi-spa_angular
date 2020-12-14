@@ -18,7 +18,13 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/Blu3W0LF/sehir-rehberi-spa_angular.git
    ```
-2. Install NPM packages
+   
+2. Enter in the file
+   ```sh
+   cd sehir-rehberi-spa_angular
+   ```
+   
+3. Install NPM packages
    ```sh
    npm install
    ```
@@ -38,6 +44,8 @@ Use this space to show useful examples of how a project can be used. Additional 
    ```sh
    ng serve
    ```
+   or
+   
    ```sh
    ng serve --port 9000
    ```
